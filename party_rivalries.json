@@ -1,0 +1,8 @@
+{
+  "PTI": ["PML(N)", "PPP", "JUI(F)", "JUI-F", "MQM-P"],
+  "PML(N)": ["PTI"],
+  "PPP": ["PTI"],
+  "JUI(F)": ["PTI"],
+  "JUI-F": ["PTI"],
+  "MQM-P": ["PTI"]
+}

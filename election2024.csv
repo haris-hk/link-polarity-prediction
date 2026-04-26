@@ -1,0 +1,267 @@
+region,contituancy ,member,party
+Balochistan,NA-266 Killa Abdullah-cum-Chaman,Mehmood Khan Achakzai,PKMAP
+Balochistan,NA-265 Pishin,Fazal-ur-Rehman,JUI(F)
+Balochistan,NA-264 Quetta-IIi,Jamal Raisani,PPP
+Balochistan,NA-263 Quetta-II,Jamal Shah Kakar,PML(N)
+Balochistan,NA-262 Quetta-I,Adil Khan Bazai,Independent
+Balochistan,NA-261 Surab-cum-Kalat-cum-Mastung,Akhtar Mengal,BNP-M
+Balochistan,NA-260 Chagai-cum-Nushki-cum-Kharan-cum-Washuk,Usman Badini,JUI(F)
+Balochistan,NA-259 Kech-cum-Gwadar,Malik Shah Gorgaij,PPP
+Balochistan,NA-258 Panjgur-cum-Kech,Waja Pullain Baloch,National Party
+Balochistan,NA-257 Hub-cum-Lasbela-cum-Awaran,Jam Kamal Khan,PML(N)
+Balochistan,NA-256 Khuzdar,Akhtar Mengal,BNP-M
+Balochistan,NA-255 Sohbat Pur-cum-Jaffarabad-cum-Usta Muhammad-cum-Nasirabad,Mir Khan Muhammad Jamali,PML(N)
+Balochistan,NA-254 Nasirabad-cum-Kachhi-cum-Jhal Magsi,Khalid Hussain Magsi,BNP-M
+Balochistan,NA-253 Ziarat-cum-Harnai-cum-Sibbi-cum-Kohlu-cum-Dera Bugti,Mian Khan Mondrani,Independent
+Balochistan,NA-252 Musakhel-cum-Barkhan-cum-Loralai-cum-Duki,Sardar Yaqoob Nasir,PML(N)
+Balochistan,NA-251 Sherani-cum-Zhob-cum-Killa Saifullah,Khushal Khan Kakar,PKNAP
+ICT,NA-48 Islamabad-III,Khurram Shehzad Nawaz,Independent
+ICT,NA-47 Islamabad-II,Tariq Fazal Chaudhry,PML(N)
+ICT,NA-46 Islamabad-I,Anjum Aqeel Khan,PML(N)
+kpk,NA-9 Malakand,Junaid Akbar,Independent
+kpk,NA-8 Bajaur,Vacant,nan
+kpk,NA-7 Lower Dir-II,Mehboob Shah,Independent
+kpk,NA-6 Lower Dir-I,Muhammad Bashir Khan,Independent
+kpk,NA-5 Upper Dir,Sahibzada Sibghatullah,Independent
+kpk,NA-45 D I Khan-II,Fatehullah Khan Miankhel,PPP
+kpk,NA-44 D I Khan-I,Ali Amin Gandapur,Independent
+kpk,NA-43 Tank,Dawar Khan Kundi,Independent
+kpk,NA-42 South Waziristan,Zubair Khan Wazir,Independent
+kpk,NA-41 Lakki Marwat,Sher Afzal Marwat,Independent
+kpk,NA-40 North Waziristan,Misbahuddin,JUI(F)
+kpk,NA-4 Swat-III,Sohail Sultan,Independent
+kpk,NA-39 Bannu,Naseem Ali Shah,Independent
+kpk,NA-38 Karak,Shahid Ahmed Khattak,Independent
+kpk,NA-37 Kurram-II,Hameed Hussain,Majlis Wahdat-e-Muslimeen
+kpk,NA-36 Hangu,Yousuf Khan,Independent
+kpk,NA-35 Kohat,Shehryar Afridi,Independent
+kpk,NA-34 Nowshera-II,Zulfiqar Ali,Independent
+kpk,NA-33 Nowshera-I,Syed Shah Ahad Ali Shah,Independent
+kpk,NA-32 Peshawar-V,Asif Khan,Independent
+kpk,NA-31 Peshawar-IV,Sher Ali Arbab,Independent
+kpk,NA-30 Peshawar-III,Shandana Gulzar,Independent
+kpk,NA-3 Swat-II,Saleem Rehman,Independent
+kpk,NA-29 Peshawar-II,Arbab Amir Ayub,Independent
+kpk,NA-28 Peshawar-I,Noor Alam Khan,JUI(F)
+kpk,NA-27 Khyber,Mohammed Iqbal Khan Afridi,Independent
+kpk,NA-26 Mohmand,Sajid Khan Mohmand,Independent
+kpk,NA-25 Charsadda-II,Fazal Muhammad Khan,Independent
+kpk,NA-24 Charsadda-I,Malik Anwar Taj,Independent
+kpk,NA-23 Mardan-III,Ali Muhammad Khan,Independent
+kpk,NA-22 Mardan-II,Atif Khan,Independent
+kpk,NA-21 Mardan-I,Mujahid Ali,Independent
+kpk,NA-20 Swabi-II,Shahram Khan Tarakai,Independent
+kpk,NA-2 Swat-I,Amjad Ali Khan,Independent
+kpk,NA-19 Swabi-I,Asad Qaiser,Independent
+kpk,NA-18 Haripur,Omar Ayub Khan,Independent
+kpk,NA-17 Abbottabad-II,Ali Khan Jadoon,Independent
+kpk,NA-16 Abbottabad-I,Ali Asghar Khan,Independent
+kpk,NA-15 Mansehra-cum-Torghar,Shahzada Muhammad Gushtasap Khan,Independent
+kpk,NA-14 Mansehra,Sardar Muhammad Yousuf,PML(N)
+kpk,NA-13 Battagram,Muhammad Nawaz Khan,Independent
+kpk,NA-12 Kohistan,Malik Muhammad Idrees,Independent
+kpk,NA-11 Shangla,Amir Muqam,PML(N)
+kpk,NA-10 Buner,Gohar Ali Khan,Independent
+kpk,NA-1 Chitral,Abdul Latif,Independent
+Punjab,NA-99 Faisalabad-V,Umar Farooq,Independent
+Punjab,NA-98 Faisalabad-IV,nan,nan
+Punjab,NA-97 Faisalabad-III,Muhammad Saadullah,Independent
+Punjab,NA-96 Faisalabad-II,nan,nan
+Punjab,NA-95 Faisalabad-I,Ali Afzal Sahi,Independent
+Punjab,NA-94 Chiniot-II,Qaiser Ahmed Shaikh,PML(N)
+Punjab,NA-93 Chiniot-I,Muhammad Afzal,PML(N)
+Punjab,NA-92 Bhakkar-II,Rashid Akbar,Independent
+Punjab,NA-91 Bhakkar-I,Sana Ullah Khan,Independent
+Punjab,NA-90 Mianwali-II,Umair Khan Niazi,Independent
+Punjab,NA-89 Mianwali-I,Jamal Ahsan Khan,Independent
+Punjab,NA-88 Khushab-II,Vacant,nan
+Punjab,NA-87 Khushab-I,Malik Shakir Bashir Awan,PML(N)
+Punjab,NA-86 Sargodha-V,Muhammad Iqbal Ali Khan,Independent
+Punjab,NA-85 Sargodha-IV,nan,nan
+Punjab,NA-84 Sargodha-III,Shafqat Abbas,Independent
+Punjab,NA-83 Sargodha-II,Usama Ghias Mela,Independent
+Punjab,NA-82 Sargodha-I,Mukhtar Ahmad Bharath,PML(N)
+Punjab,NA-81 Gujranwala-V,nan,nan
+Punjab,NA-80 Gujranwala-IV,nan,nan
+Punjab,NA-79 Gujranwala-III,nan,nan
+Punjab,NA-78 Gujranwala-II,nan,nan
+Punjab,NA-77 Gujranwala-I,nan,nan
+Punjab,NA-76 Narowal-II,Ahsan Iqbal,PML(N)
+Punjab,NA-75 Narowal-I,Anwaarul Haq Chaudhry,PML(N)
+Punjab,NA-74 Sialkot-V,Muhammad Aslam Ghumman,Independent
+Punjab,NA-73 Sialkot-IV,nan,nan
+Punjab,NA-72 Sialkot-III,nan,nan
+Punjab,NA-71 Sialkot-II,Khawaja Asif,PML(N)
+Punjab,NA-70 Sialkot-I,Chaudhry Subhani,PML(N)
+Punjab,NA-69 Mandi Bahauddin-II,Nasir Iqbal Bosal,PML(N)
+Punjab,NA-68 Mandi Bahauddin-I,Imtiaz Ahmed Chaudhary,Independent
+Punjab,NA-67 Hafizabad,Aneeqa Mehdi,Independent
+Punjab,NA-66 Wazirabad,Muhammad Ahmed Chattha,Independent
+Punjab,NA-65 Gujrat-IV,Chaudhary Naseer Ahmed Abbas,PML(N)
+Punjab,NA-64 Gujrat-III,Chaudhry Salik Hussain,PML(Q)
+Punjab,NA-63 Gujrat-II,Chaudhry Hussain Elahi,PML(Q)
+Punjab,NA-62 Gujrat-I,Muhammad Ilyas Chaudhary,Independent
+Punjab,NA-61 Jhelum-II,Chaudhry Farrukh Altaf,PML(N)
+Punjab,NA-60 Jhelum-I,Bilal Azhar Kayani,PML(N)
+Punjab,NA-59 Chakwal-cum-Talagang,Sardar Ghulam Abbas,PML(N)
+Punjab,NA-58 Chakwal,Tahir Iqbal,PML(N)
+Punjab,NA-57 Rawalpindi-VI,Daniyal Chaudhary,PML(N)
+Punjab,NA-56 Rawalpindi-V,Hanif Abbasi,PML(N)
+Punjab,NA-55 Rawalpindi-IV,Malik Ibrar Ahmed,PML(N)
+Punjab,NA-54 Rawalpindi-III,Aqeel Malik,Independent
+Punjab,NA-53 Rawalpindi-II,Qamar-ul-Islam Raja,PML(N)
+Punjab,NA-52 Rawalpindi-I,Raja Pervaiz Ashraf,PPP
+Punjab,NA-51 Murree-cum-Rawalpindi,Raja Usama Sarwar,PML(N)
+Punjab,NA-50 Attock-II,Malik Sohail Khan,PML(N)
+Punjab,NA-49 Attock-I,Sheikh Aftab Ahmed,PML(N)
+Punjab,NA-189 Rajanpur-III,nan,nan
+Punjab,NA-188 Rajanpur-II,Hafeez-ur-Rehman Dreshak,PML(N)
+Punjab,NA-187 Rajanpur-I,Ammar Ahmed Khan Laghari,PML(N)
+Punjab,NA-186 Dera Ghazi Khan-III,nan,nan
+Punjab,NA-185 Dera Ghazi Khan-II,Zartaj Gul,Independent
+Punjab,NA-184 Dera Ghazi Khan-I,nan,nan
+Punjab,NA-183 Taunsa,nan,nan
+Punjab,NA-182 Layyah-II,Awais Haider Jhakkar,Independent
+Punjab,NA-181 Layyah-I,Amber Majeed,Independent|
+Punjab,NA-180 Kot Addu-II,nan,nan
+Punjab,NA-179 Kot Addu-I,Shabbir Ali Qureshi,Independent
+Punjab,NA-178 Muzaffargarh-IV,Sardar Aamir Talal Khan Gopang,PML(N)
+Punjab,NA-177 Muzaffargarh-III,nan,nan
+Punjab,NA-176 Muzaffargarh-II,Iftikhar Ahmed Khan Babar,nan
+Punjab,NA-175 Muzaffargarh-I,Jamshed Dasti,Independent
+Punjab,NA-174 Rahim Yar Khan-VI,Mohammad Azhar Khan,PML(N)
+Punjab,NA-173 Rahim Yar Khan-V,nan,nan
+Punjab,NA-172 Rahim Yar Khan-IV,Javed Iqbal Warraich,IPP
+Punjab,NA-171 Rahim Yar Khan-III,Mumtaz Mustafa,Independent
+Punjab,NA-170 Rahim Yar Khan-II,nan,nan
+Punjab,NA-169 Rahim Yar Khan-I,nan,nan
+Punjab,NA-168 Bahawalpur-V,nan,nan
+Punjab,NA-167 Bahawalpur-IV,Usman Owaisi,PML(N)
+Punjab,NA-166 Bahawalpur-III,Makhdoom Syed Sami Ul Hassan Gillani,PML(N)
+Punjab,NA-165 Bahawalpur-II,nan,nan
+Punjab,NA-164 Bahawalpur-I,nan,nan
+Punjab,NA-163 Bahawalnagar-IV,nan,nan
+Punjab,NA-162 Bahawalnagar-III,nan,nan
+Punjab,NA-161 Bahawalnagar-II,nan,nan
+Punjab,NA-160 Bahawalnagar-I,Muhammad Abdul Ghaffar Watto,PML(N)
+Punjab,NA-159 Vehari-IV,Aurangzeb Khan Khichi,Independent
+Punjab,NA-158 Vehari-III,nan,nan
+Punjab,NA-157 Vehari-II,Syed Sajid Mehdi,PML(N)
+Punjab,NA-156 Vehari-I,Ayesha Nazir,Independent
+Punjab,NA-155 Lodhran-II,nan,nan
+Punjab,NA-154 Lodhran-I,Rana Muhammad Faraz Noon,Independent
+Punjab,NA-153 Multan-VI,Rana Qasim Noon,PML(N)
+Punjab,NA-152 Multan-V,Abdul Qadir Gillani,PPP
+Punjab,NA-151 Multan-IV,Ali Musa Gilani,PPP
+Punjab,NA-150 Multan-III,Zain Qureshi,Independent
+Punjab,NA-149 Multan-II,nan,nan
+Punjab,NA-148 Multan-I,nan,nan
+Punjab,NA-147 Khanewal-IV,Chaudhry Iftikhar Nazir,PML(N)
+Punjab,NA-146 Khanewal-III,Zahoor Hussain Qureshi,Independent
+Punjab,NA-145 Khanewal-II,Muhammad Khan Daha,PML(N)
+Punjab,NA-144 Khanewal-I,Raza Hayat Hiraj,Independent
+Punjab,NA-143 Sahiwal-III,Rai Hassan Nawaz Khan,Independent
+Punjab,NA-142 Sahiwal-II,Usman Ali,Independent
+Punjab,NA-141 Sahiwal-I,Syed Imran Ahmed Shah,PML(N)
+Punjab,NA-140 Pakpattan-II,Rana Iradat Sharif Khan,PML(N)
+Punjab,NA-139 Pakpattan-I,Ahmad Raza Maneka,PML(N)
+Punjab,NA-138 Okara-IV,Muhammad Moeen Wattoo,PML(N)
+Punjab,NA-137 Okara-III,Syed Raza Ali Gillani,PMLN(N)
+Punjab,NA-136 Okara-II,Riaz-ul-Haq,PML(N)
+Punjab,NA-135 Okara-I,Chaudhry Nadeem Abbas,PML(N)
+Punjab,NA-134 Kasur-IV,nan,nan
+Punjab,NA-133 Kasur-III,nan,nan
+Punjab,NA-132 Kasur-II,nan,nan
+Punjab,NA-131 Kasur-I,nan,nan
+Punjab,NA-130 Lahore-XIV,Nawaz Sharif,PML(N)
+Punjab,NA-129 Lahore-XIII,nan,nan
+Punjab,NA-128 Lahore-XII,nan,nan
+Punjab,NA-127 Lahore-XI,Attaullah Tarar,PML(N)
+Punjab,NA-126 Lahore-X,nan,nan
+Punjab,NA-125 Lahore-IX,nan,nan
+Punjab,NA-124 Lahore-VIII,Rana Mubashir Iqbal,PML(N)
+Punjab,NA-123 Lahore-VII,Shehbaz Sharif,PML(N)
+Punjab,NA-122 Lahore-VI,Sardar Latif Khosa,Independent
+Punjab,NA-121 Lahore-V,Waseem Qadir,PML(N)
+Punjab,NA-120 Lahore-IV,Ayaz Sadiq,PML(N)
+Punjab,NA-119 Lahore-III,Maryam Nawaz,PML(N)
+Punjab,NA-118 Lahore-II,Hamza Shahbaz,PML(N)
+Punjab,NA-117 Lahore-I,nan,nan
+Punjab,NA-116 Sheikhupura-IV,nan,nan
+Punjab,NA-115 Sheikhupura-III,Khurram Shahzad Virk,Independent
+Punjab,NA-114 Sheikhupura-II,Rana Tanveer Hussain,PML(N)
+Punjab,NA-113 Sheikhupura-I,Ahmad Atteeq Anwar,PML(N)
+Punjab,NA-112 Nankana Sahib-II,Shizra Mansab Ali Khan,PML(N)
+Punjab,NA-111 Nankana Sahib-I,Arshad Sahi,Independent
+Punjab,NA-110 Jhang-III,Muhammad Ameer Sultan,Independent
+Punjab,NA-109 Jhang-II,Sheikh Waqas Akram,Independent
+Punjab,NA-108 Jhang-I,Sahabzada Mehboob Sultan,Independent
+Punjab,NA-107 Toba Tek Singh-III,nan,nan
+Punjab,NA-106 Toba Tek Singh-II,Muhammad Junaid Anwar Chaudhry,PML(N)
+Punjab,NA-105 Toba Tek Singh-I,Usama Hamza,Independent
+Punjab,NA-104 Faisalabad-X,nan,nan
+Punjab,NA-103 Faisalabad-IX,nan,nan
+Punjab,NA-102 Faisalabad-VIII,nan,nan
+Punjab,NA-101 Faisalabad-VII,Rana Atif,Independent
+Punjab,NA-100 Faisalabad-VI,nan,nan
+Sindh,NA-250 Karachi Central-IV,Farhan Chishti,MQM-P
+Sindh,NA-249 Karachi Central-III,Ahmed Salim Siddiqui,MQM-P
+Sindh,NA-248 Karachi Central-II,Khalid Maqbool Siddiqui,MQM-P
+Sindh,NA-247 Karachi Central-I,Khawaja Izharul Hassan,MQM-P
+Sindh,NA-246 Karachi West-III,Syed Aminul Haque,MQM-P
+Sindh,NA-245 Karachi West-II,Syed Hafeezuddin,MQM-P
+Sindh,NA-244 Karachi West-I,Farooq Sattar,MQM-P
+Sindh,NA-243 Karachi Keamari-II,Abdul Qadir Patel,PPP
+Sindh,NA-242 Karachi Keamari-I,Syed Mustafa Kamal,MQM-P
+Sindh,NA-241 Karachi South-III,Mirza Ikhtiar Baig,PPPP
+Sindh,NA-240 Karachi South-II,Arshad Vohra,MQM-P
+Sindh,NA-239 Karachi South-I,Nabil Gabol,PPPP
+Sindh,NA-238 Karachi East-IV,Sadiq Iftikhar,MQM-P
+Sindh,NA-237 Karachi East-III,Asad Alam Niazi,PPPP
+Sindh,NA-236 Karachi East-II,Hassaan Sabir,MQM-P
+Sindh,NA-235 Karachi East-I,Muhammad Iqbal Khan,MQM-P
+Sindh,NA-234 Karachi Korangi-III,Muhammad Moin Aamir Pirzada,MQM-P
+Sindh,NA-233 Karachi Korangi-II,Muhammad Javed Hanif Khan,MQM-P
+Sindh,NA-232 Karachi Korangi-I,Aasia Ishaque,MQM-P
+Sindh,NA-231 Malir-III,Abdul Hakeem Baloch,PPP
+Sindh,NA-230 Malir-II,Syed Rafiullah,PPP
+Sindh,NA-229 Malir-I,Jam Abdul Karim Bijar,PPP
+Sindh,NA-228 Dadu-II,Rafiq Ahmed Jamali,PPP
+Sindh,NA-227 Dadu-I,Irfan Zafar Leghari,PPP
+Sindh,NA-226 Jamshoro,Asad Sikandar,PPP
+Sindh,NA-225 Thatta,Sadiq Ali Memon,PPP
+Sindh,NA-224 Sujawal,Syed Ayaz Ali Shah Sheerazi,PPP
+Sindh,NA-223 Badin-II,Haji Rasool Baksh Chandio,PPP
+Sindh,NA-222 Badin-I,Mir Ghulam Ali Talpur,PPP
+Sindh,NA-221 Tando Muhammad Khan,Syed Naveed Qamar,PPP
+Sindh,NA-220 Hyderabad-III,nan,nan
+Sindh,NA-219 Hyderabad-II,nan,nan
+Sindh,NA-218 Hyderabad-I,Syed Hussain Tariq,PPP
+Sindh,NA-217 Tando Allahyar,Zulfiqar Bachani,PPP
+Sindh,NA-216 Matiari,Makhdoom Jameeluz Zaman,PPP
+Sindh,NA-215 Tharparkar-II,nan,nan
+Sindh,NA-214 Tharparkar-I,nan,nan
+Sindh,NA-213 Umerkot,nan,nan
+Sindh,NA-212 Mirpur Khas-II,nan,nan
+Sindh,NA-211 Mirpur Khas-I,nan,nan
+Sindh,NA-210 Sanghar-II,nan,nan
+Sindh,NA-209 Sanghar-I,nan,nan
+Sindh,NA-208 Nawabshah-II,nan,nan
+Sindh,NA-207 Nawabshah-I,Asif Ali Zardari,PPP
+Sindh,NA-206 Naushahro Feroze-II,Zulfiqar Ali Behan,PPP
+Sindh,NA-205 Naushahro Feroze-I,Syed Abrar Ali Shah,PPP
+Sindh,NA-204 Khairpur-III,Javed Ali Shah Jilani,PPP
+Sindh,NA-203 Khairpur-II,Pir Fazal Ali Shah,PPP
+Sindh,NA-202 Khairpur-I,Nafisa Shah,PPP
+Sindh,NA-201 Sukkur-II,Syed Khursheed Ahmed Shah,PPP
+Sindh,NA-200 Sukkur-I,Nauman Aslam Sheikh,PPP
+Sindh,NA-199 Ghotki-II,Ali Gohar Khan,PPP
+Sindh,NA-198 Ghotki-I,Khalid Ahmed Khan Lund,PPP
+Sindh,NA-197 Qambar Shahdadkot-II,Amir Ali Magsi,PPP
+Sindh,NA-196 Qambar Shahdadkot-I,Bilawal Bhutto Zardari,PPP
+Sindh,NA-195 Larkana-II,Nazeer Ahmed Bughio,PPP
+Sindh,NA-194 Larkana-I,Bilawal Bhutto Zardari,PPP
+Sindh,NA-193 Shikarpur,Shehryar Khan Mehar,PPP
+Sindh,NA-192 Kashmore-cum-Shikarpur,nan,nan
+Sindh,NA-191 Jacobabad-cum-Kashmore,nan,nan
+Sindh,NA-190 Jacobabad,Aijaz Hussain Jakhrani,PPP
